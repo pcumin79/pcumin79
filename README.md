@@ -5,6 +5,9 @@ I'm a Database Administrator with almost 15 years experience in Oracle RDBMS (ma
 Tools:
 
 > Python / R Programming
+
 > Linear algebra, multivariate calculus and statistics
-> Pandas ... Libraries
+
+> Pandas / Matplotlib
+
 > Tensorflow
